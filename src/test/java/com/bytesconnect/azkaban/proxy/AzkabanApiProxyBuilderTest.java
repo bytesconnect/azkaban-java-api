@@ -9,9 +9,6 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Mason.Zhou on 2020/6/23
- */
 public class AzkabanApiProxyBuilderTest {
     @Test
     public void builder() {
